@@ -1,1 +1,1 @@
-Addinf functionality A.
+This is a changed content of file A.
